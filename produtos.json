@@ -126,13 +126,6 @@
     "description": ""
   },
   {
-    "id": 21,
-    "name": "Rímel Incolor",
-    "price": "R$7,99",
-    "image": "RimelIncolor.jpg",
-    "description": ""
-  },
-  {
     "id": 22,
     "name": "Tiara Esportiva",
     "price": "R$6,99",
@@ -144,13 +137,6 @@
     "name": "Kit  3 Presilhas Estrela",
     "price": "R$6,99",
     "image": "KitEstrelas.jpg",
-    "description": ""
-  },
-  {
-    "id": 24,
-    "name": "Body Splash",
-    "price": "R$8,99",
-    "image": "BodySplash.jpg",
     "description": ""
   },
   {
@@ -172,13 +158,6 @@
     "name": "Adstringente / Tônico / Água Micelar",
     "price": "R$7,99",
     "image": "Ads.jpg",
-    "description": ""
-  },
-  {
-    "id": 28,
-    "name": "Xuxinha Metalizada",
-    "price": "R$6,99",
-    "image": "XuxaMetal.png",
     "description": ""
   },
   {
@@ -207,27 +186,6 @@
     "name": "Kit Pincel",
     "price": "R$25,00",
     "image": "pincel.jpg",
-    "description": ""
-  },
-  {
-    "id": 33,
-    "name": "Pó Compacto Ruby Rose",
-    "price": "R$7,99",
-    "image": "PoRuby.png",
-    "description": ""
-  },
-  {
-    "id": 34,
-    "name": "Base Matte",
-    "price": "R$7,99",
-    "image": "base2.jpg",
-    "description": ""
-  },
-  {
-    "id": 35,
-    "name": "Corretivo",
-    "price": "R$7,99",
-    "image": "Corretivo.jpg",
     "description": ""
   },
   {
@@ -298,13 +256,6 @@
     "name": "Pó facial de Rosa Mosqueta",
     "price": "R$7,99",
     "image": "PoRosa.jpg",
-    "description": ""
-  },
-  {
-    "id": 46,
-    "name": "Bolsa Baguete",
-    "price": "R$34,99",
-    "image": "Bolsa.png",
     "description": ""
   },
   {
