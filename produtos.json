@@ -119,24 +119,10 @@
     "description": ""
   },
   {
-    "id": 19,
-    "name": "Pó Solto Efeito Blindagem",
-    "price": "R$7,99",
-    "image": "PoFacial.jpg",
-    "description": ""
-  },
-  {
     "id": 20,
     "name": "Pó Tapioca",
     "price": "R$7,99",
     "image": "PoTapioca.jpg",
-    "description": ""
-  },
-  {
-    "id": 21,
-    "name": "Rímel Incolor",
-    "price": "R$7,99",
-    "image": "RimelIncolor.jpg",
     "description": ""
   },
   {
@@ -151,13 +137,6 @@
     "name": "Kit  3 Presilhas Estrela",
     "price": "R$6,99",
     "image": "KitEstrelas.jpg",
-    "description": ""
-  },
-  {
-    "id": 24,
-    "name": "Body Splash",
-    "price": "R$8,99",
-    "image": "BodySplash.jpg",
     "description": ""
   },
   {
@@ -305,20 +284,6 @@
     "name": "Pó facial de Rosa Mosqueta",
     "price": "R$7,99",
     "image": "PoRosa.jpg",
-    "description": ""
-  },
-  {
-    "id": 46,
-    "name": "Bolsa Baguete",
-    "price": "R$34,99",
-    "image": "Bolsa.png",
-    "description": ""
-  },
-  {
-    "id": 47,
-    "name": "Esfoliante de Corpo",
-    "price": "R$8,99",
-    "image": "EsfolianteCorpo.png",
     "description": ""
   },
   {
