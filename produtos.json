@@ -28,13 +28,6 @@
     "description": ""
   },
   {
-    "id": 5,
-    "name": "Gloss Sarah's Beauty",
-    "price": "R$7,99",
-    "image": "GlossSara.png",
-    "description": ""
-  },
-  {
     "id": 6,
     "name": "Kit 3 Pentes",
     "price": "R$7,99",
@@ -53,13 +46,6 @@
     "name": "Gloss de Mel",
     "price": "R$7,99",
     "image": "GlossMel.jpg",
-    "description": ""
-  },
-  {
-    "id": 9,
-    "name": "Gloss Super Pink",
-    "price": "R$7,99",
-    "image": "GlossSuperPink.png",
     "description": ""
   },
   {
@@ -193,27 +179,6 @@
     "name": "Kit Pincel",
     "price": "R$25,00",
     "image": "pincel.jpg",
-    "description": ""
-  },
-  {
-    "id": 33,
-    "name": "Pó Compacto Ruby Rose",
-    "price": "R$7,99",
-    "image": "PoRuby.png",
-    "description": ""
-  },
-  {
-    "id": 34,
-    "name": "Base Matte",
-    "price": "R$7,99",
-    "image": "base2.jpg",
-    "description": ""
-  },
-  {
-    "id": 35,
-    "name": "Corretivo",
-    "price": "R$7,99",
-    "image": "Corretivo.jpg",
     "description": ""
   },
   {
